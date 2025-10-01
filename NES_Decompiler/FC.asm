@@ -6,6 +6,7 @@
 ;The full size of FC is 40KB
 ;The size of the FC PRG ROM is 32KB
 ;The size of the FC CHR ROM is 8KB
+
 0010	JMP    $80AD
 0013	JMP    $AF88
 0016	LDX    $4E0E
