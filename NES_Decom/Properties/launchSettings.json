@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "NES_Decom": {
+      "commandName": "Project",
+      "commandLineArgs": "FC.nes",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
