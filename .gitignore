@@ -3,6 +3,9 @@
 ################################################################################
 
 /.vs/
+/.vs/NES_Decom/
 /NES_Decom/bin/
 /NES_Decom/obj/
 .gitignore.un~
+/NES_Decompiler/bin
+/NES_Decompiler/obj
